@@ -1,5 +1,7 @@
 # Luna Media (`luna-media`)
 
+> [Polski](README.pl.md) · [English](README.en.md) · [Deutsch](README.de.md)
+
 Przeglądarka obrazów, RAW-ów, filmów i PDF-ów środowiska Luna na libLunie — galeria
 z miniaturami, podgląd z zoomem i pokazem slajdów, odtwarzacz wideo z dźwiękiem
 oraz czytnik PDF ze zmianą stron i zaznaczaniem tekstu.
